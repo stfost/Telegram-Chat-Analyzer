@@ -8,11 +8,8 @@
 1.  **Получите API ключи**
     *   Зайдите на [my.telegram.org](https://my.telegram.org) → "API development tools".
     *   Скопируйте ваши `api_id` и `api_hash`.
-    *   
 2.  **Настройте скрипт**
     *   Откройте `.py` файл и вставьте ваши `api_id`, `api_hash` и `chat_id` в соответствующие переменные.
-
 3.  **Запустите**
-    ```bash
-    python ваш_скрипт.py
-    ```
+    `python main.py`
+
